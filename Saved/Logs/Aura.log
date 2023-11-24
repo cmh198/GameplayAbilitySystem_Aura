@@ -1125,3 +1125,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.24-10.53.07:187][368]LogViewport: Scene viewport resized to 996x583, mode Windowed.
 [2023.11.24-10.53.07:212][369]LogViewport: Scene viewport resized to 996x578, mode Windowed.
 [2023.11.24-10.58.05:049][357]LogDerivedDataCache: C:/Users/ezspl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.336 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2088 files in 3198 folders with total size 156 MiB.
+[2023.11.24-11.58.04:932][408]LogDerivedDataCache: C:/Users/ezspl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.219 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2088 files in 3198 folders with total size 156 MiB.
